@@ -6,7 +6,7 @@ import './global.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Hi!</h1>
+    <h1>Hi 2!</h1>
   </React.StrictMode>,
   document.getElementById('root')
 );
